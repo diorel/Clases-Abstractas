@@ -12,8 +12,8 @@ namespace ProgramaClaseAbtractaC
         public abstract string Nombre { get; set; }
         public abstract string Clave { get; set; }
         public abstract string RFC { get; set; }
-        public int string TipoRegimen { get; set; }
-        public abstract string NombreContact { get; set; }
+        public abstract int  TipoRegimen { get; set; }
+        public abstract string Nombrecontacto { get; set; }
 
        
 
