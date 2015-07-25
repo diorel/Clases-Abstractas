@@ -10,6 +10,8 @@ namespace ProgramaClaseAbtractaC
     {
         static void Main(string[] args)
         {
+            clsClientesBase cliente = new clsClientesBase(); 
+
         }
     }
 }
